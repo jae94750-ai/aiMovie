@@ -3,7 +3,7 @@
 ### 소개: 바이브 코딩, 프롬포트 엔지니어링을 활용하여 만든 동영상(개인 동영상 3개, 팀 동영상 3개)<br>
 ### 배지: 빌드상태(빌드전), 버전(1.0)<br>
 ### 실행화면:<br>
-### 배포링크: [https://i.pinimg.com/736x/ac/af/14/acaf14e1e557f4e356a97eba29701d3c.jpg](https://www.youtube.com/watch?v=FSBVt1ALQHU&list=RDFSBVt1ALQHU&start_radio=1)<br>
+### 배포링크: [이미지](https://www.youtube.com/watch?v=FSBVt1ALQHU&list=RDFSBVt1ALQHU&start_radio=1)<br>
 
 기술스택:<br>
 주요기능:<br>
