@@ -8,4 +8,4 @@
 기술스택:<br>
 주요기능:<br>
 연락처:<br>
-![이미지 올리는 연습](https://git-scm.com/images/log@2x.png)
+![(이미지 올리는 연습)](https://git-scm.com/images/log@2x.png)
