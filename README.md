@@ -8,4 +8,4 @@
 기술스택:<br>
 주요기능:<br>
 연락처:<br>
-![이미지 올리는 연습](https://image.zdnet.co.kr/2023/03/07/2c25496ed5cbd3e1d62dd217d9ce003d.png)
+![(이미지 올리는 연습)](https://image.zdnet.co.kr/2023/03/07/2c25496ed5cbd3e1d62dd217d9ce003d.png)
