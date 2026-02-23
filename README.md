@@ -8,4 +8,4 @@
 기술스택:<br>
 주요기능:<br>
 연락처:<br>
-![이미지 올리는 연습](https://images.app.goo.gl/)
+![이미지 올리는 연습](https://share.google/HiFP4lGaeviTMOu0r)
